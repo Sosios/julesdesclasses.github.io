@@ -5,7 +5,5 @@ Sites web réalisés pendant la Toile : [Sur les sprite-comics](https://sprite-c
 ## Projets d'application
 
 Prototypes d'applications en groupe réalisés avec iOS : 
-Movies'Meet :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JFMPfjvC6kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Level Up :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JFMPfjvC6kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Movies'Meet](https://www.youtube.com/watch?v=JFMPfjvC6kA)
+[Level Up](https://www.youtube.com/watch?v=86GT1G2umaU)
